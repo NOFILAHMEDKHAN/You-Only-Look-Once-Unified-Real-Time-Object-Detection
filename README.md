@@ -81,6 +81,3 @@ Exits cleanly with ESC key during playback
 
 Easily extendable to detect custom classes like referees, balls, road signs, etc.
 
-yaml
-Copy
-Edit
